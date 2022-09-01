@@ -1,2 +1,2 @@
 # Python
-Estudos Utilizando Python
+## Estudos de Automação Utilizando Python
